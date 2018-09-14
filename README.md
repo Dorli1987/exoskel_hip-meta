@@ -8,6 +8,12 @@ This project is part of a course assignment at the **MCI Management Center Innsb
 
 ## Resources
 
+### General
+
+- CLion IDE:
+
+- Setting up CLion for Arduino: https://www.instructables.com/id/Setup-JetBrains-Clion-for-Arduino-Development/
+
 ### Technical
 
 #### Microcontrollers
